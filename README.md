@@ -1,4 +1,4 @@
-# The 18mm flight computer competition
+# UC Aerospace 18mm flight computer competition
 
 As previously mentioned the goal is to design a cheap, simple to use altimeter for the Christchurch Rocketeers. 
 To add another dimension to this challenge we also want you to keep clear and concise documentation, because hate it or love it you all have a lot of documentation in your future carrers. It dosn't have to be, and infact is better if it isn't long. To help with this have a look at the A3 planning document and keep updating this as you progress with the project. Once your done write up a short wiki instruction manual/pich style documenting the features, considerations and perks of your design. Good luck!
